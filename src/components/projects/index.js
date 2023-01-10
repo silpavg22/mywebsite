@@ -24,8 +24,8 @@ const projects = () => {
 								</li>
 								
 								<li>
-                                    <a href="https://github.com/axgcoder/google-cloud-gallery"><h3>Cloud Gallery</h3></a>
-									<p>Implemented a image gallery in Google cloud making use of the cloud services </p>
+                                    <a href="https://github.com/silpavg22/Cloud-Gallery"><h3>Cloud Gallery</h3></a>
+									<p>Implemented a image gallery in MIcrosoft Azure making use of the cloud services </p>
 								</li>
                                 
                                 <li>
