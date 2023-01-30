@@ -3,14 +3,14 @@ import Icon from '@material-ui/core/Icon';
 
 const intro = () => {
     return (
-        <div className="highlight_wrapper"
-        style={{
-            //height:`${window.innerHeight}px`,
-            overflow:`hidden`,
-            //background:`#505393`,
-            marginTop:`90px`
-        }}
-        >
+        // <div className="highlight_wrapper"
+        // style={{
+        //     //height:`${window.innerHeight}px`,
+        //     overflow:`hidden`,
+        //     //background:`#505393`,
+        //     // marginTop:`90px`
+        // }}
+        // >
 <section id="one" className="wrapper style1 special">
 						<div className="inner">
 							<header className="major">
@@ -35,19 +35,29 @@ const intro = () => {
          <i className=" fas fa-code" style={{fontSize: `2.5em`}}></i> 
        
         <h3>Languages</h3>
-        <p> Java, Python, PHP, JavaScript, C++, C</p>
+        <p> Java, Python, PHP, JavaScript, C++, C, C#</p>
         </li>
-
-        {/* <li className="intro_icons_li"><span className="icon fa-terminal" style={{fontSize: `3em`}}></span>
-   
-        <h3>Tools</h3>
-        <p>something</p>
-        </li> */}
+        <li className="intro_icons_li">
+         <i className=" fas fa-database" style={{fontSize: `2.5em`}}></i> 
+        <h3>Databases</h3>
+        <p> MySQL, SQL Server, PostgreSQL, Oracle </p>
+        </li>
+        <li className="intro_icons_li">
+         <i className=" fas fa-code" style={{fontSize: `2.5em`}}></i> 
+        <h3>Frameworks</h3>
+        <p> React JS, React Native, jQuery, BootStrap, Laravel </p>
+        </li>
+        <li className="intro_icons_li">
+         <i className=" fas fa-cloud" style={{fontSize: `2.5em`}}></i> 
+        <h3>Cloud technologies</h3>
+        <p> Microsoft Azure, Amazon Web Services (AWS), Google Cloud </p>
+        </li>
+        
     </ul>
                             </div>
                 	</div>
 				</section>
-        </div>
+        // </div>
     );
 };
 

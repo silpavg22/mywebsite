@@ -3151,6 +3151,10 @@
 }
 .intro_icons_li{
 	width:50%;
+	display:inline;
+    padding: 100px;
+	
+
 }
 /* Page Wrapper + Menu */
 
