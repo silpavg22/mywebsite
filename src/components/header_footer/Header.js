@@ -89,7 +89,7 @@ class Header extends Component {
                     <h6 style={{ marginTop: "-17%", marginLeft: "49%" ,fontFamily:"Georgia",fontSize:"16px"}}>Master's in Computer Science</h6>
                     <h6 style={{ marginTop: "-15%", marginLeft: "49%" ,fontFamily:"Georgia",fontSize:"16px"}}>University Of Texas Arlington</h6>
 
-                    <h6 style={{ marginTop: "-15%", marginLeft: "49%" ,fontFamily:"Georgia",fontSize:"16px"}}>Senior Software Engineer </h6>
+                    <h6 style={{ marginTop: "-13%", marginLeft: "49%" ,fontFamily:"Georgia",fontSize:"16px"}}>Senior Software Engineer </h6>
 
                     <div className="home-soc" id="content-mobile_icons" >
 
