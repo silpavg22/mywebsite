@@ -93,7 +93,7 @@ class Header extends Component {
 
                     <div className="home-soc" id="content-mobile_icons" >
 
-                        <p style={{ fontSize: "200%", marginTop: "7%" }}>
+                        <p style={{ fontSize: "200%", marginTop: "9%" }}>
                             <a className="btn btn-animatedbg" style={{ textAlign: "center", padding: "3px", fontSize: "large", left: "746px", bottom:"204px",position: "relative" }} 
                             href="files/Resume.pdf" target="_blank" download="Resume"><button className="btn"><i class="fa fa-download"></i> Download Resume</button></a>
                         </p>
