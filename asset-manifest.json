@@ -1,13 +1,15 @@
 {
-  "main.css": "/mywebsite/static/css/main.64db632c.chunk.css",
-  "main.js": "/mywebsite/static/js/main.328cd1f3.chunk.js",
-  "main.js.map": "/mywebsite/static/js/main.328cd1f3.chunk.js.map",
-  "static/js/1.71c255f4.chunk.js": "/mywebsite/static/js/1.71c255f4.chunk.js",
-  "static/js/1.71c255f4.chunk.js.map": "/mywebsite/static/js/1.71c255f4.chunk.js.map",
+  "main.css": "/mywebsite/static/css/main.38267310.chunk.css",
+  "main.js": "/mywebsite/static/js/main.94c3591b.chunk.js",
+  "main.js.map": "/mywebsite/static/js/main.94c3591b.chunk.js.map",
+  "static/js/1.99d51c5a.chunk.js": "/mywebsite/static/js/1.99d51c5a.chunk.js",
+  "static/js/1.99d51c5a.chunk.js.map": "/mywebsite/static/js/1.99d51c5a.chunk.js.map",
   "runtime~main.js": "/mywebsite/static/js/runtime~main.acc54b31.js",
   "runtime~main.js.map": "/mywebsite/static/js/runtime~main.acc54b31.js.map",
-  "static/css/main.64db632c.chunk.css.map": "/mywebsite/static/css/main.64db632c.chunk.css.map",
+  "static/media/Silpa.jpeg": "/mywebsite/static/media/Silpa.29e0ebcd.jpeg",
+  "static/media/tech.jpg": "/mywebsite/static/media/tech.f54c9e8e.jpg",
+  "static/css/main.38267310.chunk.css.map": "/mywebsite/static/css/main.38267310.chunk.css.map",
   "index.html": "/mywebsite/index.html",
-  "precache-manifest.7aaf27d51f7ab4d31879def78b56a41d.js": "/mywebsite/precache-manifest.7aaf27d51f7ab4d31879def78b56a41d.js",
+  "precache-manifest.ea338f2f2e150d7a93075c6d83651cee.js": "/mywebsite/precache-manifest.ea338f2f2e150d7a93075c6d83651cee.js",
   "service-worker.js": "/mywebsite/service-worker.js"
 }
