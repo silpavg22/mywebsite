@@ -86,7 +86,8 @@ class Header extends Component {
                         Silpa Vijayan Geetha
                     </h2>
 
-                    <h6 style={{ marginTop: "-17%", marginLeft: "49%" ,fontFamily:"Georgia",fontSize:"16px"}}>Master's in Computer Science, UTA</h6>
+                    <h6 style={{ marginTop: "-17%", marginLeft: "49%" ,fontFamily:"Georgia",fontSize:"16px"}}>Master's in Computer Science</h6>
+                    <h6 style={{ marginTop: "-15%", marginLeft: "49%" ,fontFamily:"Georgia",fontSize:"16px"}}>University Of Texas Arlington</h6>
 
                     <h6 style={{ marginTop: "-15%", marginLeft: "49%" ,fontFamily:"Georgia",fontSize:"16px"}}>Senior Software Engineer </h6>
 
