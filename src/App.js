@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 //import './resources/styles.css';
 import './resources/main.css';
+import  './App.css'
 import {Element} from 'react-scroll';
 
 import Header from './components/header_footer/Header';

@@ -14,17 +14,24 @@ const education = () => {
 								{/* <i className="proj_icon fas fa-code"></i>  */}
 								<h3>Masters in Computer Science</h3>
 									<p>University Of Texas at Arlington</p>
+                                    <p><b>CGPA:4.0</b></p>
+
                                     {/* <p>ASP.NET MVC 5| Entity Framework | JQuery |Bootstrap |NET Framework 4.7 |VS 2017 |MS SQL Server</p> */}
 								</li>
 
 								<li>
                                    <h3>Masters in Computer Science</h3>
 									<p>Sree Chitra Thirunal College of Engineering</p>
+                                    <p><b>CGPA:3.7</b></p>
+
+
 								</li>
 								
 								<li>
                                     <h3>Bachelors in Computer Science</h3>
 									<p>St.Thomas Institute For Science and Technology </p>
+                                    <div><b>CGPA:3.5</b></div>
+
 								</li>
                                 
                                
