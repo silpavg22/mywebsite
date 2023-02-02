@@ -1,15 +1,15 @@
 {
   "main.css": "/mywebsite/static/css/main.38267310.chunk.css",
-  "main.js": "/mywebsite/static/js/main.7ace9fc3.chunk.js",
-  "main.js.map": "/mywebsite/static/js/main.7ace9fc3.chunk.js.map",
+  "main.js": "/mywebsite/static/js/main.54727e94.chunk.js",
+  "main.js.map": "/mywebsite/static/js/main.54727e94.chunk.js.map",
   "static/js/1.99d51c5a.chunk.js": "/mywebsite/static/js/1.99d51c5a.chunk.js",
   "static/js/1.99d51c5a.chunk.js.map": "/mywebsite/static/js/1.99d51c5a.chunk.js.map",
   "runtime~main.js": "/mywebsite/static/js/runtime~main.acc54b31.js",
   "runtime~main.js.map": "/mywebsite/static/js/runtime~main.acc54b31.js.map",
   "static/media/Silpa.jpeg": "/mywebsite/static/media/Silpa.29e0ebcd.jpeg",
-  "static/media/tech.jpg": "/mywebsite/static/media/tech.f54c9e8e.jpg",
+  "static/media/tech.jpg": "/mywebsite/static/media/tech.17fc0ebf.jpg",
   "static/css/main.38267310.chunk.css.map": "/mywebsite/static/css/main.38267310.chunk.css.map",
   "index.html": "/mywebsite/index.html",
-  "precache-manifest.2471ec7d049bb7b1d7607cf823e44a9a.js": "/mywebsite/precache-manifest.2471ec7d049bb7b1d7607cf823e44a9a.js",
+  "precache-manifest.5a5b42db62439f40da7018640d46e0e4.js": "/mywebsite/precache-manifest.5a5b42db62439f40da7018640d46e0e4.js",
   "service-worker.js": "/mywebsite/service-worker.js"
 }
