@@ -1,15 +1,15 @@
 {
-  "main.css": "/mywebsite/static/css/main.38267310.chunk.css",
-  "main.js": "/mywebsite/static/js/main.54727e94.chunk.js",
-  "main.js.map": "/mywebsite/static/js/main.54727e94.chunk.js.map",
-  "static/js/1.99d51c5a.chunk.js": "/mywebsite/static/js/1.99d51c5a.chunk.js",
-  "static/js/1.99d51c5a.chunk.js.map": "/mywebsite/static/js/1.99d51c5a.chunk.js.map",
+  "main.css": "/mywebsite/static/css/main.dffc98f0.chunk.css",
+  "main.js": "/mywebsite/static/js/main.fd16c07b.chunk.js",
+  "main.js.map": "/mywebsite/static/js/main.fd16c07b.chunk.js.map",
+  "static/js/1.b16252dc.chunk.js": "/mywebsite/static/js/1.b16252dc.chunk.js",
+  "static/js/1.b16252dc.chunk.js.map": "/mywebsite/static/js/1.b16252dc.chunk.js.map",
   "runtime~main.js": "/mywebsite/static/js/runtime~main.acc54b31.js",
   "runtime~main.js.map": "/mywebsite/static/js/runtime~main.acc54b31.js.map",
   "static/media/Silpa.jpeg": "/mywebsite/static/media/Silpa.29e0ebcd.jpeg",
   "static/media/tech.jpg": "/mywebsite/static/media/tech.17fc0ebf.jpg",
-  "static/css/main.38267310.chunk.css.map": "/mywebsite/static/css/main.38267310.chunk.css.map",
+  "static/css/main.dffc98f0.chunk.css.map": "/mywebsite/static/css/main.dffc98f0.chunk.css.map",
   "index.html": "/mywebsite/index.html",
-  "precache-manifest.1be0d49f23b1ca935da18f9ae393a963.js": "/mywebsite/precache-manifest.1be0d49f23b1ca935da18f9ae393a963.js",
+  "precache-manifest.de62417a2e1c5df33f0144e2a986dec9.js": "/mywebsite/precache-manifest.de62417a2e1c5df33f0144e2a986dec9.js",
   "service-worker.js": "/mywebsite/service-worker.js"
 }
