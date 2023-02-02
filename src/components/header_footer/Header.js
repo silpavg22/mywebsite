@@ -78,7 +78,8 @@ class Header extends Component {
                     </Toolbar>
                 </AppBar>
 
-                <div className="row home-content__main" style={{  backgroundImage: `url(${Background})`,backgroundRepeat: 'no-repeat'}}>
+                <div className="row home-content__main" style={{  backgroundImage: `url(${Background})`,backgroundRepeat: 'norepeat'}}>
+                {/* <div className="row home-content__main" style={{  backgroundColor: "black",backgroundRepeat: 'no-repeat'}}> */}
 
                     <img src={ProfilPic} alt="test" style={{ width: "35%", height: "45%", paddingTop: "17%",position: "relative" ,left :"133px"}} />
                     
@@ -93,9 +94,9 @@ class Header extends Component {
 
                     <div className="home-soc" id="content-mobile_icons" >
 
-                        <p style={{ fontSize: "200%", marginTop: "10%" }}>
+                        <p style={{ fontSize: "200%", marginTop: "18%" }}>
                             <a className="btn btn-animatedbg" style={{ textAlign: "center", padding: "3px", fontSize: "large", left: "746px", bottom:"204px",position: "relative" }} 
-                            href="files/Resume.pdf" target="_blank" without rel="noopener noreferrer"><button className="btn"><i class="fa fa-download"></i> Download Resume</button></a>
+                            href="files/Resume.pdf" target="_blank" without rel="noopener noreferrer"><button className="btn"><i class="fa fa-download"></i> My Resume</button></a>
                         </p>
                     </div>
 

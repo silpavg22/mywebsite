@@ -32,6 +32,18 @@ const projects = () => {
                                     <a href="https://github.com/silpavg22/KabbadiWinnerPredictor"><h3>Winner Prediction</h3></a>
 									<p>Predicting the winner of a kabbadi match using Logistic Regression Algorithm.</p>
 								</li>
+
+								
+                                <li>
+                                    <a href="https://github.com/silpavg22/VisualizeGoogleCharts"><h3>Data Visualization using Google Charts</h3></a>
+									<p>To visualize and display the results from SQL table within a browser, allow a user to select intervals or attributes in a data set, 
+show results as a pie chart, a histogram, or a scatter or point chart.</p>
+								</li>
+
+								<li>
+                                    <a href="https://github.com/silpavg22/OnlineTestApp"><h3>Online Test Application</h3></a>
+									<p>An timer based online grading system with admin, tutor and student where teacher are able to create question and student can answer them. There is also a provison for teachers to grade them. Done using 3 AWS instances for security..</p>
+								</li>
         						</ul>
 						</div>
 					</section>    
