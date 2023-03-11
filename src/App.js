@@ -36,7 +36,7 @@ class App extends Component {
     <Blog/>
     </Element>
     <Element name="achievements">
-    <Blog/>
+    <Achievements/>
     </Element>
      <Element name="contact">
         <Footer/>
