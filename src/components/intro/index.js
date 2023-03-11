@@ -16,7 +16,7 @@ const intro = () => {
 							<header className="major">
 								<h2>About Me<br/>
 								</h2>
-								<p>I am a Computer Science graduate student at the University of Texas at Arlington having 3.7 years of prior experience developing web applications using Spring MVC.
+								<p>I am a Computer Science graduate student at the University of Texas at Arlington having 3.7 years of prior experience developing web applications using Spring MVC Framework.
                                 <br/>
                                
                                 </p>

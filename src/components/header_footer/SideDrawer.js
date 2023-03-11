@@ -44,6 +44,9 @@ open={props.open} onClose={()=>props.onClose(false ) } >
             <ListItem button onClick={()=>scrollToElement('workexperience')}> Work Experience
             </ListItem>
 
+            <ListItem button onClick={()=>scrollToElement('blogs')}> Blog
+            </ListItem>
+
             <ListItem button onClick={()=>scrollToElement('achievements')}> Achievements
             </ListItem>
 

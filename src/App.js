@@ -10,6 +10,7 @@ import Projects from './components/projects';
 import WorkExp from './components/workexperience';
 import Education from './components/education';
 import Achievements from './components/achievements';
+import Blog from './components/blogs';
 
 
 import Footer from './components/header_footer/Footer';
@@ -31,8 +32,11 @@ class App extends Component {
     <Element name="workexperience">
         <WorkExp/>
         </Element>
+        <Element name="blogs">
+    <Blog/>
+    </Element>
     <Element name="achievements">
-    <Achievements/>
+    <Blog/>
     </Element>
      <Element name="contact">
         <Footer/>
