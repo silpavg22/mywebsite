@@ -1,15 +1,16 @@
 {
-  "main.css": "/mywebsite/static/css/main.dffc98f0.chunk.css",
-  "main.js": "/mywebsite/static/js/main.fd16c07b.chunk.js",
-  "main.js.map": "/mywebsite/static/js/main.fd16c07b.chunk.js.map",
-  "static/js/1.b16252dc.chunk.js": "/mywebsite/static/js/1.b16252dc.chunk.js",
-  "static/js/1.b16252dc.chunk.js.map": "/mywebsite/static/js/1.b16252dc.chunk.js.map",
+  "main.css": "/mywebsite/static/css/main.ab42d420.chunk.css",
+  "main.js": "/mywebsite/static/js/main.711c5500.chunk.js",
+  "main.js.map": "/mywebsite/static/js/main.711c5500.chunk.js.map",
+  "static/js/1.6cb94148.chunk.js": "/mywebsite/static/js/1.6cb94148.chunk.js",
+  "static/js/1.6cb94148.chunk.js.map": "/mywebsite/static/js/1.6cb94148.chunk.js.map",
   "runtime~main.js": "/mywebsite/static/js/runtime~main.acc54b31.js",
   "runtime~main.js.map": "/mywebsite/static/js/runtime~main.acc54b31.js.map",
   "static/media/Silpa.jpeg": "/mywebsite/static/media/Silpa.29e0ebcd.jpeg",
   "static/media/tech.jpg": "/mywebsite/static/media/tech.17fc0ebf.jpg",
-  "static/css/main.dffc98f0.chunk.css.map": "/mywebsite/static/css/main.dffc98f0.chunk.css.map",
+  "static/media/titanic.jpg": "/mywebsite/static/media/titanic.51371a8e.jpg",
+  "static/css/main.ab42d420.chunk.css.map": "/mywebsite/static/css/main.ab42d420.chunk.css.map",
   "index.html": "/mywebsite/index.html",
-  "precache-manifest.de62417a2e1c5df33f0144e2a986dec9.js": "/mywebsite/precache-manifest.de62417a2e1c5df33f0144e2a986dec9.js",
+  "precache-manifest.448d394c5016e33f02b7cac2e9b1d8b5.js": "/mywebsite/precache-manifest.448d394c5016e33f02b7cac2e9b1d8b5.js",
   "service-worker.js": "/mywebsite/service-worker.js"
 }
